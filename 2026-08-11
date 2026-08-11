@@ -1,0 +1,18 @@
+11.8.2026
+
+Dnes jsem v Diversight měl za úkol se naučit základy umělé inteligence z webu 
+https://www.elementsofai.cz/
+zdá se mi, že je velmi obtížné tento kurz splnit za jeden den. Kurz si rozdělím na více dní.
+Pomohlo mi se o tomto poradit se seniorním kolegou. Zdá se mi, že když je něčeho nad hlavu a mám pocit že musím vše stihnout hned,
+tak se pak dozvím že se to po mě ani nechce, což je úleva.
+Rád bych si spojil můj domácí počítač s mým účtem github. 
+Stalo se, udělal jsem to nikoliv pomocí příkazu ssh z příkazové řádky, ale tak že jsem se do vs code přihlásil pomocí githubu.
+Aha tak to není ono.
+pomocí příkazu 
+ssh-keygen -t ed25519 -C "vas@email.cz"
+jsem vygeneroval nový ssh pár.
+Nyní si vyzkouším spojení.
+Pomocí příkazu 
+git@github.com:krystof-macku/den-k_datov-ho_analytika.git
+naklonuji potřebný repozitář.
+Funguje, ale terminál mě varuje, že jsem naklonoval prázdný repozitár.
