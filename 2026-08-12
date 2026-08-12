@@ -14,3 +14,18 @@ Tomuto problému by se dalo předejít, kdyby testeři v dané společnosti vyzk
 by se zjistilo, kde se jméno ořezává, a následné by se standard implementoval celofiremně. 
 
 Přemýšlel jsem o mém směřování v rámci práce s daty. Zatím nemám vybudovaný jasný obrázek. Testování se mi zalíbilo. 
+
+MARKDOWN
+Mohl bych teoreticky začít něcím jako ### a různými úrovněmi. No uvidím
+
+TECHNICKÁ ČÁST DENÍKU
+Bylo by nějak možné do tohoto deníku zakomponovat kód který jsem vytvořil? Nejspíš jo, ale asi by to mohli být jen nějaké výstřižky. 
+Jak se mi líbí strukturovat si mojí práci? Formou deníku. Velice by se mi líbilo, kdybych měl část deníku věnovanou sql, část pythonu a část třeba tabulkovému kalkulátoru.
+Tím pádem bych viděl, jak se moje schopnosti vyvíjeli v čase. Např.:
+
+PYTHON
+Tento jazyk se mi líbí, protože se dá rychle naučit.
+takto je možné v pythonu napočítat do 10 i s nulou:
+
+for i in range(11):
+    print(i)
