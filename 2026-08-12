@@ -1,0 +1,16 @@
+DIVERSIGHT
+
+Dnes jsem v diversightu dostal za úkol se nějakým způsobem seznámit se základními koncepty testování a tvorby testovacích scénářů. 
+Ještě předtím, než jsem se o testingu tyto nové informace dozvěděl, bral jsem tento obor docela nedůležitě. Zdálo se mi, že je potřeba
+programy vymýšlet a tvořit. Testování a hledání chyb se mi zdálo jako příživnictví. 
+
+Mám dojem, že se můj názor změnil. Uvědomil jsem si, že vývoj softwaru má více fází. V dřívějších fázích je program tzv. "doma". Pokud se v tomto
+období nepřijde na chyby, které by mohli software potkat, můžou se projevit ve chvíli, kdy na nich bude záležet lidský život. 
+
+Od Adama jsem se dozvěděl že v americe byl případ paní, která měla 5 jmen. To je pro většinu aplikací moc dlouhé, takže se to zkracuje. Jenže každý 
+jednotlivý dotazník to zkracoval jinde, někdy po 3 někdy po 4. slově. Paní jakoby neexistovala pro tu společnost jako celek, protože byla v každém dotazníku zapsána jinal.
+
+Tomuto problému by se dalo předejít, kdyby testeři v dané společnosti vyzkoušeli krajní případy (Edge Case). Třeba by zkusili zadat několik dlouhých jmen. Z toho
+by se zjistilo, kde se jméno ořezává, a následné by se standard implementoval celofiremně. 
+
+Přemýšlel jsem o mém směřování v rámci práce s daty. Zatím nemám vybudovaný jasný obrázek. Testování se mi zalíbilo. 
